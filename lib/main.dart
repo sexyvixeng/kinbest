@@ -33,7 +33,7 @@ class MyHomePage extends StatelessWidget {
           
           IconButton(
               icon: Icon(Icons.settings),
-              highlightColor: Colors.black,
+              highlightColor: Colors.white,
               color: Colors.white,
               tooltip: 'Alarm',
               onPressed: () {
