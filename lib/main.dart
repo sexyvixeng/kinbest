@@ -35,6 +35,7 @@ class MyHomePage extends StatelessWidget {
               icon: Icon(Icons.settings),
               highlightColor: Colors.white,
               color: Colors.white,
+              //this is tooltip
               tooltip: 'Alarm',
               onPressed: () {
                 print('Tis is alarm');
